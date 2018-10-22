@@ -1,5 +1,9 @@
 # Virtual-Stock-Trainer
-Invest in equities with virtual money
+* Invest in equities and cryptocurrencies with virtual money.
+* Buy,sell and add to watchlist your preferred stocks.
+* Track live news to witness current movement and trends in the market.
+* Explore different cryptocurrencies.
+* Analyze charts of stocks based on intraday prices, volume and monthly data.
 
 ## Technologies used: ##
 * HTML
